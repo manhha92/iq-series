@@ -35,4 +35,4 @@ Ready to get hands-on? Head to the [Episode 3 Cookbook](./cookbook/) for prerequ
 
 - Ask your questions on our [Discord channel](https://discord.gg/REmjGvvFpW)
 
-### 🎉 Congratulations! You've completed The IQ Series. Continue exploring Foundry IQ and join our [Discord community](https://discord.gg/REmjGvvFpW) to share your learnings!
+### 🎉 Congratulations! You've completed The Foundry IQ Series. Continue exploring Work IQ and join our [Discord community](https://discord.gg/REmjGvvFpW) to share your learnings!

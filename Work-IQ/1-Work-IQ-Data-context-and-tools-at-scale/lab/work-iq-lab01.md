@@ -172,4 +172,4 @@ As you can see, regardless if you use the Work IQ CLI, Work IQ A2A, Work IQ MCP 
 
 ## Where to go next
 
-- **Explore the IQ Series** — Continue learning with [Episode 2: A2A for Context‑Aware, Agentic Experiences](../../2-Work-IQ-A2A-for-Context‑Aware-Agentic-Experiences/) and [Episode 3: Tooling with MCP & CLI](../../3-Work-IQ-Tooling-with-MCP-and-CLI/).
+- **Explore the IQ Series** — Continue learning with [Episode 2: A2A for Context‑Aware, Agentic Experiences](../../2-Work-IQ-A2A-for-Context‑Aware-Agentic-Experiences/).

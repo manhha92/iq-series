@@ -26,7 +26,6 @@ body:
         For each episode: fork the repo and run all the labs. Paste the direct link to your forked repo. Screenshots must show:
           - Lab 01: Anonymized output of the REST API request in Graph Explorer
           - Lab 02: A screenshot of the A2A inspector with anonymized data
-          - Lab 03: A screenshot of the home page of the vibe-coded prototype solution
 
   - type: textarea
     id: repo_fork
@@ -69,22 +68,6 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
-    attributes:
-      label: Ep 3 — Tooling with MCP & CLI
-      description: Please upload a screenshot of the home page of the vibe-coded prototype solution.
-      options:
-        - label: I verify that I have uploaded a screenshot of the home page of the vibe-coded prototype solution.
-          required: true
-
-  - type: textarea
-    id: ep3_screenshot
-    attributes:
-      label: "Ep 3 — final output screenshot"
-      placeholder: "Drag and drop screenshot here"
-    validations:
-      required: true
-
   - type: markdown
     attributes:
       value: "---"
@@ -98,7 +81,6 @@ body:
       placeholder: |
         Episode 1: [Your insight]
         Episode 2: [Your insight]
-        Episode 3: [Your insight]
     validations:
       required: true
 

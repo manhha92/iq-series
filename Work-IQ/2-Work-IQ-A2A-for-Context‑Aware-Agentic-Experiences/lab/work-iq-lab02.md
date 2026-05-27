@@ -130,4 +130,4 @@ As you can see, you can consume Work IQ as a remote agent from any other agent, 
 
 ## Where to go next
 
-- **Explore the IQ Series** — Continue learning with [Episode 3: Tooling with MCP & CLI](../../3-Work-IQ-Tooling-with-MCP-and-CLI/).
+- **Explore the IQ Series** — Learn about Foundry IQ with [Episode 1: Foundry IQ: Unlocking Knowledge for your Agents](../../../Foundry-IQ/1-Foundry-IQ-Unlocking-Knowledge-for-Agents/).

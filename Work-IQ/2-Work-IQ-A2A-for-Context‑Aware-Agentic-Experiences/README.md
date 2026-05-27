@@ -2,7 +2,7 @@
 
 [![Episode 2 video](../../images/work-iq/ep2.png)](https://aka.ms/iq-series/work-iq/episode2)
 
-📅 **June 23, 2026 at 9 AM PT** | 📺 [Watch the session](https://aka.ms/iq-series/work-iq/episode2) | 📂 [Try the lab](./lab/)
+📅 **June 9, 2026 at 9 AM PT** | 📺 [Watch the session](https://aka.ms/iq-series/work-iq/episode2) | 📂 [Try the lab](./lab/)
 
 
 ## 🎥 Session Summary
@@ -38,4 +38,4 @@ Ready to get hands-on? Head to the [Episode 2 lab](./lab/) for prerequisites, de
 
 - Ask your questions on our [Discord channel](https://discord.gg/REmjGvvFpW)
 
-### 🚀 Next Up: Continue to [Episode 3](../3-Work-IQ-Tooling-with-MCP-and-CLI/) for the next step—Tooling with MCP & CLI!
+### 🎉 Congratulations! You've completed The Work IQ Series. Continue exploring Foundry IQ and join our [Discord community](https://discord.gg/REmjGvvFpW) to share your learnings!
