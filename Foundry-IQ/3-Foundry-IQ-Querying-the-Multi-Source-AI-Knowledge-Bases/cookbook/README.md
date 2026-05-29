@@ -67,7 +67,7 @@ The [**Foundry IQ Cookbook**](./foundry-iq-cookbook.ipynb) walks you through que
 
 ### Quick Start
 
-1. Install dependencies: `pip install -U azure-search-documents==11.7.0b2 azure-identity python-dotenv`
+1. Install dependencies: `pip install -U azure-search-documents==12.1.0b1 azure-identity python-dotenv`
 2. Sign in to Azure: run `az login` in a terminal
 3. Create a `.env` file with your endpoint values (see the notebook for details)
 4. Open `foundry-iq-cookbook.ipynb` in VS Code and run the cells

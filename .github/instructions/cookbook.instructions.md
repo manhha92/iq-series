@@ -26,7 +26,7 @@ Always use `DefaultAzureCredential` from `azure-identity`. Never hardcode API ke
 
 ## Key Packages
 
-- `azure-search-documents` (>=11.6.0b13) — Search index, knowledge source, knowledge base, and retrieval APIs
+- `azure-search-documents` (>=12.1.0b1) — Search index, knowledge source, knowledge base, and retrieval APIs
 - `azure-ai-projects` — Foundry Agent Service client (`AIProjectClient`, `MCPTool`)
 - `azure-identity` — `DefaultAzureCredential` for RBAC-based auth
 - `python-dotenv` — Load `.env` files
@@ -56,8 +56,8 @@ from azure.search.documents.indexes.models import (
     KnowledgeBase,
     KnowledgeBaseAzureOpenAIModel,
     KnowledgeSourceReference,
-    KnowledgeRetrievalOutputMode,
 )
+from azure.search.documents.knowledgebases.models import KnowledgeRetrievalOutputMode
 knowledge_base = KnowledgeBase(
     name="my-kb",
     models=[KnowledgeBaseAzureOpenAIModel(...)],
