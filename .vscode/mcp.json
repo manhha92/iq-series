@@ -1,10 +1,18 @@
 {
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "search-api-key",
+      "description": "Azure AI Search query API key",
+      "password": true
+    }
+  ],
   "servers": {
-    "foundry-iq": {
-      "type": "http",
-      "url": "https://iqs-search-fpguuavvsrw2a.search.windows.net/knowledgebases/earth-knowledge-base/mcp?api-version=2025-11-01-Preview",
+    "my-kb": {
+      "type": "sse",
+      "url": "https://iqs-search-fpguuavvsrw2a.search.windows.net/knowledgebases/product-kb-ep3/mcp?api-version=2025-11-01-preview",
       "headers": {
-        "api-key": "Ao4Ojh6vvwf3PQaLzlvKdRTFyLc3xDZg9OUnVQQXw2AzSeCai8e4"
+        "api-key": "${input:search-api-key}"
       }
     }
   }
